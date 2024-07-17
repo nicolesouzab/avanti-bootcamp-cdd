@@ -1,0 +1,8 @@
+variavel,descricao,tipo,subtipo
+tip in dollars,Gorjeta em dólares,quantitativa,continua
+bill in dollars,Fatura em dólares,quantitativa,continua
+sex of the bill payer,Sexo do pagador da conta,qualitativa,nominal
+whether there were smokers in the party,Se havia fumantes na festa,qualitativa,nominal
+day of the week,Dia da semana,qualitativa,ordinal
+time of day,Hora do dia,quantitativa,continua
+size of the party,Tamanho da festa,quantitativa,discreta
