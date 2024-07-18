@@ -2,7 +2,7 @@ variavel,descricao,tipo,subtipo
 tip_in_dollar,Valor da gorjeta em dólares,quantitativa,continua
 bill_in_dollar,Valor da conta em dólares,quantitativa,continua
 sex,Sexo dos clientes,qualitativa,nominal
-smokers,Se os clientes eram fumantes ou não ,qualitativa,nominal
-day_of_the_week,Dia da semana,qualitativa,ordinal
-time_of_the_week,Horário do dia,quantitativa,continua
-size_of_the_party,Quantidade de pessoas na mesa,quantitativa,discreta
+smokers,Se os clientes eram fumantes ou não,qualitativa,nominal
+day,Dia da semana,qualitativa,ordinal
+time,Período do dia,quantitativa,continua
+size,Quantidade de pessoas na mesa,quantitativa,discreta
