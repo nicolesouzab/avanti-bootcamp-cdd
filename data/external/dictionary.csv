@@ -1,8 +1,8 @@
 variavel,descricao,tipo,subtipo
-tip_in_dollar,Valor da gorjeta em dólares,quantitativa,continua
-bill_in_dollar,Valor da conta em dólares,quantitativa,continua
+total_bill,Valor da conta em dólares,quantitativa,continua
+tip,Valor da gorjeta em dólares,quantitativa,continua
 sex,Sexo dos clientes,qualitativa,nominal
-smokers,Se os clientes eram fumantes ou não,qualitativa,nominal
+smoker,Se os clientes eram fumantes ou não,qualitativa,nominal
 day,Dia da semana,qualitativa,ordinal
-time,Período do dia,quantitativa,continua
+time,Período do dia,qualitativa,ordinal
 size,Quantidade de pessoas na mesa,quantitativa,discreta
